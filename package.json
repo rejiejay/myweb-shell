@@ -1,0 +1,27 @@
+{
+  "name": "shell-test",
+  "version": "1.0.0",
+  "description": "测试 shell",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.2"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rejiejay/myweb-shell.git"
+  },
+  "keywords": [
+    "rejiejay",
+    "website"
+  ],
+  "author": "rejiejay",
+  "bugs": {
+    "url": "https://github.com/rejiejay/myweb-shell/issues"
+  },
+  "homepage": "https://github.com/rejiejay/myweb-shell#readme"
+}
